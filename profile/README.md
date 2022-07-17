@@ -77,3 +77,37 @@
 23. [Vhublad](https://github.com/Vhublad)
 24. [Accgen](https://github.com/Accgen)
 </details>
+
+## Group PO-7
+
+
+<details>
+<summary>View list</summary>
+
+1. [Miraak777](https://github.com/Miraak777)
+2. [deazboy](https://github.com/deazboy)
+3. [Hirasavskiy](https://github.com/Hirasavskiy)
+4. [Markrkl](https://github.com/Markrkl)
+5. [Vlasdf](https://github.com/Vlasdf)
+6. ...
+7. [combo-wombo](https://github.com/combo-wombo)
+8. [KrawGleb](https://github.com/KrawGleb)
+9. [NeRpi](https://github.com/NeRpi)
+10. [AcFalseR20cgen](https://github.com/AcFalseR20cgen)
+11. [4500zenja1](https://github.com/4500zenja1)
+12. [KirillLobanbambuk](https://github.com/KirillLobanbambuk)
+13. [Egorusion](https://github.com/Egorusion)
+14. [Otti3](https://github.com/Otti3)
+15. [ViktoriyaOlehnovichGameOver](https://github.com/ViktoriyaOlehnovichGameOver)
+16. [Bloodielie](https://github.com/Bloodielie)
+17. [Pe4enjka](https://github.com/Pe4enjka)
+18. [mqpanda](https://github.com/mqpanda)
+19. [IvanRekun](https://github.com/IvanRekun)
+20. [anzhsavst](https://github.com/anzhsavst)
+21. [Kotsik23](https://github.com/Kotsik23)
+22. [sorryladies](https://github.com/sorryladies)
+23. [fofiktel](https://github.com/fofiktel)
+24. [DianaFursevich](https://github.com/DianaFursevich)
+25. [DmitriyYakimchik](https://github.com/DmitriyYakimchik)
+26. [Gdorifun](https://github.com/Gdorifun)
+</details>
