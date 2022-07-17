@@ -99,7 +99,7 @@
 13. [Egorusion](https://github.com/Egorusion)
 14. [Otti3](https://github.com/Otti3)
 15. [ViktoriyaOlehnovichGameOver](https://github.com/ViktoriyaOlehnovichGameOver)
-16. [Bloodielie](https://github.com/Bloodielie)
+16. [Bloodielie](https://github.com/Bloodielie), [antonadezhuk](https://github.com/antonadezhuk)
 17. [Pe4enjka](https://github.com/Pe4enjka)
 18. [mqpanda](https://github.com/mqpanda)
 19. [IvanRekun](https://github.com/IvanRekun)
